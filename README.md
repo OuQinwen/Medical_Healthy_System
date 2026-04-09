@@ -31,7 +31,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/medical-data-fusion-system.git
+git clone https://github.com/OuQinwen/Medical_Healthy_System
 cd medical-data-fusion-system
 ```
 
